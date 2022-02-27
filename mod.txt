@@ -1,0 +1,18 @@
+[ModMeta]
+schema=1
+name=Example building mod
+author=Weird and Wry
+desc=Example building mod
+version=1.0.0
+
+[BuildingKind]
+schema=1
+id=waw_building_test1
+name_loc=waw_building_test1_name
+name_en=Example roof
+default_draw_layer=roof
+recolor=true
+rule_y=stretch
+price_m2=800
+tex=textures/test4.png
+tags=roof,shingle
